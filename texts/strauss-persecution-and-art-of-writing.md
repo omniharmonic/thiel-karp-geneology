@@ -1,21 +1,21 @@
 ---
-title: "Persecution and the Art of Writing — Strauss's Hermeneutic Manifesto (Deep Dive)"
+title: Persecution and the Art of Writing — Strauss's Hermeneutic Manifesto (Deep Dive)
 tags:
-  - "deep-dive"
-  - hermeneutics
-  - research
-  - straussian
-  - text
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/strauss-persecution-and-art-of-writing"
-type: "text-deep-dive"
-date: "2026-04-23"
+- deep-dive
+- hermeneutics
+- research
+- straussian
+- text
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/strauss-persecution-and-art-of-writing
 author: Leo Strauss
-year: 1952
-visibility: public
-status: draft
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: '1952'
 ---
 
 ## Persecution and the Art of Writing

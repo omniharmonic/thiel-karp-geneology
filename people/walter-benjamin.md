@@ -1,38 +1,38 @@
 ---
 title: Walter Benjamin
 tags:
-  - "20c-philosophy"
-  - "aesthetic-theory"
-  - "critical-theory"
-  - "frankfurt-school"
-  - "german-philosophy"
-  - person
-  - research
-  - "ring-2"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/walter-benjamin"
-type: person
-ring: 2
-lived: 1892–1940
-nationality: German
-disciplines: "philosophy, literary criticism, media theory, translation"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- aesthetic-theory
+- critical-theory
+- frankfurt-school
+- german-philosophy
+- person
+- research
+- ring-2
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/walter-benjamin
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, literary criticism, media theory, translation
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1892–1940
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 2
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Walter Benjamin

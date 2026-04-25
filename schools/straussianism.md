@@ -1,19 +1,19 @@
 ---
 title: Straussianism
 tags:
-  - "20c-philosophy"
-  - "political-philosophy"
-  - research
-  - school
-  - straussian
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/schools/straussianism"
-type: school
-date: "2026-04-23"
-visibility: public
-status: draft
+- 20c-philosophy
+- political-philosophy
+- research
+- school
+- straussian
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/schools/straussianism
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: school
+visibility: public
 ---
 
 # Straussianism

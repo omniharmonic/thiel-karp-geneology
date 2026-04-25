@@ -1,36 +1,36 @@
 ---
 title: Friedrich Nietzsche
 tags:
-  - "19c-philosophy"
-  - "german-philosophy"
-  - person
-  - research
-  - "ring-2"
-  - "shared-upstream"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/friedrich-nietzsche"
-type: person
-ring: 2
-lived: 1844–1900
-nationality: German
-disciplines: "philosophy, philology, cultural criticism"
-role: ''
-organizations: ''
-projects: ''
+- 19c-philosophy
+- german-philosophy
+- person
+- research
+- ring-2
+- shared-upstream
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/friedrich-nietzsche
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, philology, cultural criticism
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1844–1900
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 2
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Friedrich Nietzsche

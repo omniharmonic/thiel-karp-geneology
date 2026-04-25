@@ -1,34 +1,34 @@
 ---
 title: Plato
 tags:
-  - "classical-philosophy"
-  - "greek-philosophy"
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/plato"
-type: person
-ring: 3
-lived: c. 428–348 BCE
-nationality: Greek (Athens)
-role: ''
-organizations: ''
-projects: ''
+- classical-philosophy
+- greek-philosophy
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/plato
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: c. 428–348 BCE
+location: ''
+nationality: Greek (Athens)
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Plato

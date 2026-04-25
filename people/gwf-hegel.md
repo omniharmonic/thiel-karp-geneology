@@ -1,37 +1,37 @@
 ---
 title: G.W.F. Hegel
 tags:
-  - "19c-philosophy"
-  - "german-idealism"
-  - "german-philosophy"
-  - person
-  - research
-  - "ring-2"
-  - "shared-upstream"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/gwf-hegel"
-type: person
-ring: 2
-lived: 1770–1831
-nationality: German
-disciplines: "philosophy, philosophy of history, political philosophy"
-role: ''
-organizations: ''
-projects: ''
+- 19c-philosophy
+- german-idealism
+- german-philosophy
+- person
+- research
+- ring-2
+- shared-upstream
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/gwf-hegel
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, philosophy of history, political philosophy
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1770–1831
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 2
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Georg Wilhelm Friedrich Hegel

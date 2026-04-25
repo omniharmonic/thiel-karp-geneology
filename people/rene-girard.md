@@ -1,38 +1,38 @@
 ---
 title: René Girard
 tags:
-  - "20c-philosophy"
-  - anthropology
-  - christian
-  - "french-philosophy"
-  - girardian
-  - person
-  - research
-  - "ring-1"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/rene-girard"
-type: person
-ring: 1
-lived: 1923–2015
-nationality: French
-disciplines: "literary criticism, philosophical anthropology, Catholic theology"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- anthropology
+- christian
+- french-philosophy
+- girardian
+- person
+- research
+- ring-1
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/rene-girard
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: literary criticism, philosophical anthropology, Catholic theology
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1923–2015
+location: ''
+nationality: French
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 1
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # René Girard

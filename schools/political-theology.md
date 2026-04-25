@@ -1,20 +1,20 @@
 ---
 title: Political Theology
 tags:
-  - "20c-philosophy"
-  - "political-philosophy"
-  - "political-theology"
-  - research
-  - school
-  - theology
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/schools/political-theology"
-type: school
-date: "2026-04-23"
-visibility: public
-status: draft
+- 20c-philosophy
+- political-philosophy
+- political-theology
+- research
+- school
+- theology
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/schools/political-theology
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: school
+visibility: public
 ---
 
 # Political Theology

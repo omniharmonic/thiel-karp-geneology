@@ -1,35 +1,35 @@
 ---
 title: Thomas Hobbes
 tags:
-  - "early-modern"
-  - "english-philosophy"
-  - person
-  - "political-philosophy"
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/thomas-hobbes"
-type: person
-ring: 3
-lived: 1588–1679
-nationality: English
-role: ''
-organizations: ''
-projects: ''
+- early-modern
+- english-philosophy
+- person
+- political-philosophy
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/thomas-hobbes
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1588–1679
+location: ''
+nationality: English
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Thomas Hobbes

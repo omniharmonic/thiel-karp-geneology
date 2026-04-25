@@ -1,25 +1,25 @@
 ---
-title: "Zero to One (2014) — Thiel's Mass-Market Girardianism (Deep Dive)"
+title: Zero to One (2014) — Thiel's Mass-Market Girardianism (Deep Dive)
 tags:
-  - contemporary
-  - "deep-dive"
-  - girardian
-  - "mimetic-theory"
-  - research
-  - "silicon-valley"
-  - text
-  - thiel
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/thiel-zero-to-one"
-type: "text-deep-dive"
-date: "2026-04-24"
+- contemporary
+- deep-dive
+- girardian
+- mimetic-theory
+- research
+- silicon-valley
+- text
+- thiel
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/thiel-zero-to-one
 author: Peter Thiel with Blake Masters
-year: 2014
-publisher: Crown Business
-visibility: public
-status: draft
+date: 2026-04-24
 projects: ''
+publisher: Crown Business
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: '2014'
 ---
 
 ## Zero to One

@@ -1,23 +1,23 @@
 ---
 title: Master–Slave Dialectic
 tags:
-  - "19c-philosophy"
-  - concept
-  - "cross-branch-concept"
-  - hegelian
-  - research
-  - "shared-upstream"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/concepts/master-slave-dialectic"
-type: concept
-date: "2026-04-23"
-visibility: public
+- 19c-philosophy
+- concept
+- cross-branch-concept
+- hegelian
+- research
+- shared-upstream
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/concepts/master-slave-dialectic
 aliases: ''
+confidence: ''
+date: 2026-04-23
+projects: ''
 related: ''
 source: ''
-confidence: ''
 status: draft
-projects: ''
+type: concept
+visibility: public
 ---
 
 # Master–Slave Dialectic

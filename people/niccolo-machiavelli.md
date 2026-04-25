@@ -1,35 +1,35 @@
 ---
 title: Niccolò Machiavelli
 tags:
-  - "early-modern"
-  - "italian-philosophy"
-  - person
-  - "political-philosophy"
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/niccolo-machiavelli"
-type: person
-ring: 3
-lived: 1469–1527
-nationality: Florentine
-role: ''
-organizations: ''
-projects: ''
+- early-modern
+- italian-philosophy
+- person
+- political-philosophy
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/niccolo-machiavelli
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1469–1527
+location: ''
+nationality: Florentine
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Niccolò Machiavelli

@@ -1,34 +1,34 @@
 ---
 title: Sigmund Freud
 tags:
-  - "20c-philosophy"
-  - person
-  - psychoanalysis
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/sigmund-freud"
-type: person
-ring: 3
-lived: 1856–1939
-nationality: Austrian
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- person
+- psychoanalysis
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/sigmund-freud
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1856–1939
+location: ''
+nationality: Austrian
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Sigmund Freud

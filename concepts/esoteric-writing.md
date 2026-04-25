@@ -1,21 +1,21 @@
 ---
 title: Esoteric Writing
 tags:
-  - concept
-  - hermeneutics
-  - research
-  - straussian
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/concepts/esoteric-writing"
-type: concept
-date: "2026-04-23"
-visibility: public
+- concept
+- hermeneutics
+- research
+- straussian
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/concepts/esoteric-writing
 aliases: ''
+confidence: ''
+date: 2026-04-23
+projects: ''
 related: ''
 source: ''
-confidence: ''
 status: draft
-projects: ''
+type: concept
+visibility: public
 ---
 
 # Esoteric Writing

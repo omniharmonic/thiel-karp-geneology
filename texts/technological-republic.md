@@ -1,24 +1,24 @@
 ---
-title: "The Technological Republic — Karp & Zamiska's 2024 Book (Deep Dive)"
+title: The Technological Republic — Karp & Zamiska's 2024 Book (Deep Dive)
 tags:
-  - contemporary
-  - "deep-dive"
-  - "frankfurt-school"
-  - habermasian
-  - karp
-  - research
-  - text
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/technological-republic"
-type: "text-deep-dive"
-date: "2026-04-23"
-authors: "Alex Karp, Nicholas Zamiska"
-year: 2024
-publisher: Crown Currency
-visibility: public
-status: draft
+- contemporary
+- deep-dive
+- frankfurt-school
+- habermasian
+- karp
+- research
+- text
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/technological-republic
+authors: Alex Karp, Nicholas Zamiska
+date: 2026-04-23
 projects: ''
+publisher: Crown Currency
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: '2024'
 ---
 
 ## The Technological Republic

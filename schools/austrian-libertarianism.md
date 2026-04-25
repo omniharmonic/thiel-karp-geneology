@@ -1,20 +1,20 @@
 ---
-title: "Austrian Libertarianism (and Chicago-school adjacents)"
+title: Austrian Libertarianism (and Chicago-school adjacents)
 tags:
-  - "20c-philosophy"
-  - "austrian-economics"
-  - economics
-  - libertarian
-  - research
-  - school
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/schools/austrian-libertarianism"
-type: school
-date: "2026-04-23"
-visibility: public
-status: draft
+- 20c-philosophy
+- austrian-economics
+- economics
+- libertarian
+- research
+- school
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/schools/austrian-libertarianism
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: school
+visibility: public
 ---
 
 # Austrian Libertarianism

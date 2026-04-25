@@ -1,34 +1,34 @@
 ---
 title: Curtis Yarvin (Mencius Moldbug)
 tags:
-  - contemporary
-  - neoreaction
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/curtis-yarvin"
-type: person
-ring: 3
-born: 1973
-nationality: American
-role: ''
-organizations: ''
-projects: ''
+- contemporary
+- neoreaction
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/curtis-yarvin
+aliases: ''
+born: '1973'
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+location: ''
+nationality: American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Curtis Yarvin (Mencius Moldbug)

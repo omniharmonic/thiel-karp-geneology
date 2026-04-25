@@ -1,23 +1,23 @@
 ---
-title: "Thiel's Writings — Corpus Overview and Annotated Bibliography"
+title: Thiel's Writings — Corpus Overview and Annotated Bibliography
 tags:
-  - bibliography
-  - index
-  - overview
-  - research
-  - text
-  - thiel
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/thiel-corpus-overview"
-type: overview
-subtype: bibliography
-date: "2026-04-24"
-subject: "Peter Thiel's complete written corpus"
+- bibliography
+- index
+- overview
+- research
+- text
+- thiel
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/thiel-corpus-overview
+date: 2026-04-24
 project: ''
-visibility: public
-status: draft
 projects: ''
 source: ''
+status: draft
+subject: Peter Thiel's complete written corpus
+subtype: bibliography
+type: overview
+visibility: public
 ---
 
 # Thiel's Writings — Corpus Overview

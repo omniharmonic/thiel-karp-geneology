@@ -1,21 +1,21 @@
 ---
 title: Thiel – Karp Intellectual Genealogy
 tags:
-  - index
-  - "intellectual-history"
-  - philosophy
-  - research
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/00-README"
-type: index
-status: active
-date: "2026-04-23"
-scope: "Peter Thiel and Alex Karp: intellectual influences, traditions, and the philosophical constellation around their Stanford Law friendship and Palantir collaboration"
-depth: "2-3 rings out from primary subjects"
+- index
+- intellectual-history
+- philosophy
+- research
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/00-README
+date: 2026-04-23
+depth: 2-3 rings out from primary subjects
 project: ''
-visibility: public
 projects: ''
+scope: 'Peter Thiel and Alex Karp: intellectual influences, traditions, and the philosophical constellation around their Stanford Law friendship and Palantir collaboration'
 source: ''
+status: active
+type: index
+visibility: public
 ---
 
 # Thiel – Karp Intellectual Genealogy

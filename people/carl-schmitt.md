@@ -1,37 +1,37 @@
 ---
 title: Carl Schmitt
 tags:
-  - "20c-philosophy"
-  - "german-philosophy"
-  - person
-  - "political-philosophy"
-  - "political-theology"
-  - research
-  - "ring-1"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/carl-schmitt"
-type: person
-ring: 1
-lived: 1888–1985
-nationality: German
-disciplines: "jurisprudence, political theory, political theology"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- german-philosophy
+- person
+- political-philosophy
+- political-theology
+- research
+- ring-1
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/carl-schmitt
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: jurisprudence, political theory, political theology
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1888–1985
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 1
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Carl Schmitt

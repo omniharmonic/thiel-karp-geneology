@@ -1,36 +1,36 @@
 ---
-title: "Hans-Georg Gadamer"
+title: Hans-Georg Gadamer
 tags:
-  - "20c-philosophy"
-  - "german-philosophy"
-  - hermeneutics
-  - person
-  - phenomenology
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/hans-georg-gadamer"
-type: person
-ring: 3
-lived: 1900–2002
-nationality: German
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- german-philosophy
+- hermeneutics
+- person
+- phenomenology
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/hans-georg-gadamer
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1900–2002
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Hans-Georg Gadamer

@@ -1,34 +1,34 @@
 ---
 title: Ayn Rand
 tags:
-  - contemporary
-  - objectivism
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/ayn-rand"
-type: person
-ring: 3
-lived: 1905–1982
-nationality: "Russian-American"
-role: ''
-organizations: ''
-projects: ''
+- contemporary
+- objectivism
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/ayn-rand
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1905–1982
+location: ''
+nationality: Russian-American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Ayn Rand

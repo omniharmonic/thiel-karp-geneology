@@ -1,36 +1,36 @@
 ---
 title: Allan Bloom
 tags:
-  - "20c-philosophy"
-  - "anglo-american"
-  - person
-  - research
-  - "ring-2"
-  - straussian
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/allan-bloom"
-type: person
-ring: 2
-lived: 1930–1992
-nationality: American
-disciplines: "political philosophy, classical translation, cultural criticism"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- anglo-american
+- person
+- research
+- ring-2
+- straussian
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/allan-bloom
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: political philosophy, classical translation, cultural criticism
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1930–1992
+location: ''
+nationality: American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 2
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Allan Bloom

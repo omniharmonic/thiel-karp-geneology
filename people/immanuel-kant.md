@@ -1,35 +1,35 @@
 ---
 title: Immanuel Kant
 tags:
-  - "early-modern"
-  - enlightenment
-  - "german-philosophy"
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/immanuel-kant"
-type: person
-ring: 3
-lived: 1724–1804
-nationality: Prussian
-role: ''
-organizations: ''
-projects: ''
+- early-modern
+- enlightenment
+- german-philosophy
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/immanuel-kant
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1724–1804
+location: ''
+nationality: Prussian
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Immanuel Kant

@@ -1,21 +1,21 @@
 ---
 title: Friend/Enemy Distinction
 tags:
-  - concept
-  - "political-philosophy"
-  - "political-theology"
-  - research
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/concepts/friend-enemy-distinction"
-type: concept
-date: "2026-04-23"
-visibility: public
+- concept
+- political-philosophy
+- political-theology
+- research
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/concepts/friend-enemy-distinction
 aliases: ''
+confidence: ''
+date: 2026-04-23
+projects: ''
 related: ''
 source: ''
-confidence: ''
 status: draft
-projects: ''
+type: concept
+visibility: public
 ---
 
 # Friend / Enemy Distinction

@@ -1,36 +1,36 @@
 ---
 title: Ludwig Wittgenstein
 tags:
-  - "20c-philosophy"
-  - "analytic-philosophy"
-  - "austrian-philosophy"
-  - person
-  - "philosophy-of-language"
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/ludwig-wittgenstein"
-type: person
-ring: 3
-lived: 1889–1951
-nationality: "Austrian-British"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- analytic-philosophy
+- austrian-philosophy
+- person
+- philosophy-of-language
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/ludwig-wittgenstein
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1889–1951
+location: ''
+nationality: Austrian-British
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Ludwig Wittgenstein

@@ -1,17 +1,17 @@
 ---
 title: Research Plan + Methodology
 tags:
-  - methodology
-  - plan
-  - research
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/01-research-plan"
-type: methodology
-date: "2026-04-23"
-visibility: public
-status: draft
+- methodology
+- plan
+- research
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/01-research-plan
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: methodology
+visibility: public
 ---
 
 # Research Plan + Methodology

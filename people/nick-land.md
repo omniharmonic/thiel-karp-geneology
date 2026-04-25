@@ -1,35 +1,35 @@
 ---
 title: Nick Land
 tags:
-  - accelerationism
-  - contemporary
-  - neoreaction
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/nick-land"
-type: person
-ring: 3
-born: 1962
-nationality: British
-role: ''
-organizations: ''
-projects: ''
+- accelerationism
+- contemporary
+- neoreaction
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/nick-land
+aliases: ''
+born: '1962'
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+location: ''
+nationality: British
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Nick Land

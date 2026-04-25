@@ -1,24 +1,24 @@
 ---
-title: "Aggression in der Lebenswelt — Karp's Dissertation (Deep Dive)"
+title: Aggression in der Lebenswelt — Karp's Dissertation (Deep Dive)
 tags:
-  - "critical-theory"
-  - "deep-dive"
-  - "frankfurt-school"
-  - habermasian
-  - karp
-  - research
-  - text
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/karp-dissertation-aggression-in-lifeworld"
-type: "text-deep-dive"
-date: "2026-04-23"
+- critical-theory
+- deep-dive
+- frankfurt-school
+- habermasian
+- karp
+- research
+- text
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/karp-dissertation-aggression-in-lifeworld
 author: Alex Karp
-year: 2002
-institution: "Johann Wolfgang Goethe-Universität Frankfurt am Main"
-visibility: public
-status: draft
+date: 2026-04-23
+institution: Johann Wolfgang Goethe-Universität Frankfurt am Main
 projects: ''
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: '2002'
 ---
 
 # Aggression in der Lebenswelt

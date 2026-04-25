@@ -1,26 +1,26 @@
 ---
-title: "The Straussian Moment (2004) — Thiel's Central Philosophical Essay (Deep Dive)"
+title: The Straussian Moment (2004) — Thiel's Central Philosophical Essay (Deep Dive)
 tags:
-  - "21c-political-theology"
-  - contemporary
-  - "deep-dive"
-  - girardian
-  - "political-theology"
-  - research
-  - straussian
-  - text
-  - thiel
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/thiel-straussian-moment"
-type: "text-deep-dive"
-date: "2026-04-24"
+- 21c-political-theology
+- contemporary
+- deep-dive
+- girardian
+- political-theology
+- research
+- straussian
+- text
+- thiel
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/thiel-straussian-moment
 author: Peter Thiel
-year: 2004
-publication: "Politics and Apocalypse (Hamerton-Kelly ed., Michigan State University Press)"
-visibility: public
-status: draft
+date: 2026-04-24
 projects: ''
+publication: Politics and Apocalypse (Hamerton-Kelly ed., Michigan State University Press)
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: '2004'
 ---
 
 # The Straussian Moment

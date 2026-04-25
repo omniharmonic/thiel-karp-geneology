@@ -1,36 +1,36 @@
 ---
 title: Slavoj Žižek
 tags:
-  - contemporary
-  - "critical-theory"
-  - lacanian
-  - person
-  - "political-philosophy"
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/slavoj-zizek"
-type: person
-ring: 3
-born: 1949
-nationality: Slovenian
-role: ''
-organizations: ''
-projects: ''
+- contemporary
+- critical-theory
+- lacanian
+- person
+- political-philosophy
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/slavoj-zizek
+aliases: ''
+born: '1949'
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+location: ''
+nationality: Slovenian
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Slavoj Žižek

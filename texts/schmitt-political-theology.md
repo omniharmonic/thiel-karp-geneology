@@ -1,25 +1,25 @@
 ---
-title: "Political Theology (1922) — Schmitt's Sovereignty Manifesto (Deep Dive)"
+title: Political Theology (1922) — Schmitt's Sovereignty Manifesto (Deep Dive)
 tags:
-  - "20c-philosophy"
-  - "cross-branch-concept"
-  - "deep-dive"
-  - "german-philosophy"
-  - "political-theology"
-  - research
-  - schmitt
-  - sovereignty
-  - text
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/schmitt-political-theology"
-type: "text-deep-dive"
-date: "2026-04-24"
+- 20c-philosophy
+- cross-branch-concept
+- deep-dive
+- german-philosophy
+- political-theology
+- research
+- schmitt
+- sovereignty
+- text
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/schmitt-political-theology
 author: Carl Schmitt
-year: 1922 (expanded 1934)
-visibility: public
-status: draft
+date: 2026-04-24
 projects: ''
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: 1922 (expanded 1934)
 ---
 
 ## Political Theology

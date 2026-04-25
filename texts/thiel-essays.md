@@ -1,26 +1,26 @@
 ---
-title: "Thiel's Essays — Education of a Libertarian, End of the Future, Mimesis Foreword (Deep Dive)"
+title: Thiel's Essays — Education of a Libertarian, End of the Future, Mimesis Foreword (Deep Dive)
 tags:
-  - contemporary
-  - "deep-dive"
-  - essays
-  - girardian
-  - libertarian
-  - research
-  - stagnation
-  - text
-  - thiel
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/thiel-essays"
-type: "text-deep-dive"
-date: "2026-04-24"
+- contemporary
+- deep-dive
+- essays
+- girardian
+- libertarian
+- research
+- stagnation
+- text
+- thiel
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/thiel-essays
 author: Peter Thiel
-years_covered: "2009-2011"
-publications: "Cato Unbound, National Review, Michigan State University Press"
-visibility: public
-status: draft
+date: 2026-04-24
 projects: ''
+publications: Cato Unbound, National Review, Michigan State University Press
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+years_covered: 2009-2011
 ---
 
 # Thiel's Essays — Education of a Libertarian, End of the Future, Mimesis Foreword

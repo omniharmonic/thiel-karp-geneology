@@ -1,22 +1,22 @@
 ---
 title: The Culture Industry
 tags:
-  - "aesthetic-theory"
-  - concept
-  - "critical-theory"
-  - "frankfurt-school"
-  - research
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/concepts/culture-industry"
-type: concept
-date: "2026-04-23"
-visibility: public
+- aesthetic-theory
+- concept
+- critical-theory
+- frankfurt-school
+- research
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/concepts/culture-industry
 aliases: ''
+confidence: ''
+date: 2026-04-23
+projects: ''
 related: ''
 source: ''
-confidence: ''
 status: draft
-projects: ''
+type: concept
+visibility: public
 ---
 
 # The Culture Industry

@@ -1,21 +1,21 @@
 ---
 title: The Late Apocalyptic Girard — Clausewitz and the Escalation to Extremes (Deep Dive)
 tags:
-  - apocalyptic
-  - "deep-dive"
-  - girardian
-  - research
-  - text
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/girard-apocalyptic-turn"
-type: "text-deep-dive"
-date: "2026-04-23"
+- apocalyptic
+- deep-dive
+- girardian
+- research
+- text
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/girard-apocalyptic-turn
 author: René Girard
-year: 1999–2007
-visibility: public
-status: draft
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: 1999–2007
 ---
 
 ## The Late Apocalyptic Girard

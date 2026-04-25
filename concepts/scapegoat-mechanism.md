@@ -1,21 +1,21 @@
 ---
 title: The Scapegoat Mechanism
 tags:
-  - anthropology
-  - concept
-  - girardian
-  - research
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/concepts/scapegoat-mechanism"
-type: concept
-date: "2026-04-23"
-visibility: public
+- anthropology
+- concept
+- girardian
+- research
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/concepts/scapegoat-mechanism
 aliases: ''
+confidence: ''
+date: 2026-04-23
+projects: ''
 related: ''
 source: ''
-confidence: ''
 status: draft
-projects: ''
+type: concept
+visibility: public
 ---
 
 # The Scapegoat Mechanism

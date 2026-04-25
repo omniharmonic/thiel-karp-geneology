@@ -1,37 +1,37 @@
 ---
 title: Leo Strauss
 tags:
-  - "20c-philosophy"
-  - "german-philosophy"
-  - person
-  - "political-philosophy"
-  - research
-  - "ring-1"
-  - straussian
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/leo-strauss"
-type: person
-ring: 1
-lived: 1899–1973
-nationality: "German-American"
-disciplines: "political philosophy, history of philosophy, Jewish thought"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- german-philosophy
+- person
+- political-philosophy
+- research
+- ring-1
+- straussian
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/leo-strauss
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: political philosophy, history of philosophy, Jewish thought
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1899–1973
+location: ''
+nationality: German-American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 1
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Leo Strauss

@@ -1,36 +1,36 @@
 ---
 title: Friedrich Hayek
 tags:
-  - "20c-philosophy"
-  - "austrian-economics"
-  - "austrian-school"
-  - economics
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/friedrich-hayek"
-type: person
-ring: 3
-lived: 1899–1992
-nationality: "Austrian-British"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- austrian-economics
+- austrian-school
+- economics
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/friedrich-hayek
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1899–1992
+location: ''
+nationality: Austrian-British
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Friedrich Hayek

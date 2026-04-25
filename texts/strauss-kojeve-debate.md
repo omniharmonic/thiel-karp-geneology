@@ -1,22 +1,22 @@
 ---
 title: The Strauss–Kojève Exchange on Tyranny (Deep Dive)
 tags:
-  - "deep-dive"
-  - hegelian
-  - "political-philosophy"
-  - research
-  - straussian
-  - text
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/strauss-kojeve-debate"
-type: "text-deep-dive"
-date: "2026-04-23"
-authors: "Leo Strauss, Alexandre Kojève"
-year: 1948–1954
-visibility: public
-status: draft
+- deep-dive
+- hegelian
+- political-philosophy
+- research
+- straussian
+- text
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/strauss-kojeve-debate
+authors: Leo Strauss, Alexandre Kojève
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: 1948–1954
 ---
 
 ## The Strauss–Kojève Debate

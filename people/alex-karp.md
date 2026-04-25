@@ -1,37 +1,37 @@
 ---
 title: Alex Karp
 tags:
-  - "critical-theory"
-  - "frankfurt-school"
-  - habermasian
-  - person
-  - "primary-subject"
-  - research
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/alex-karp"
-type: person
-ring: 0
-date: "2026-04-23"
-born: 1967
-nationality: American
-disciplines: "CEO (Palantir), social theorist (PhD Frankfurt), JD Stanford"
-role: ''
-organizations: ''
-projects: ''
+- critical-theory
+- frankfurt-school
+- habermasian
+- person
+- primary-subject
+- research
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/alex-karp
+aliases: ''
+born: '1967'
+confidence: ''
 contact: ''
-location: ''
+date: 2026-04-23
+disciplines: CEO (Palantir), social theorist (PhD Frankfurt), JD Stanford
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+location: ''
+nationality: American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 0
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Alex Karp

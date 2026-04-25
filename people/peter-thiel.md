@@ -1,39 +1,39 @@
 ---
 title: Peter Thiel
 tags:
-  - christian
-  - "contrarian-conservative"
-  - girardian
-  - libertarian
-  - person
-  - "primary-subject"
-  - research
-  - straussian
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/peter-thiel"
-type: person
-ring: 0
-date: "2026-04-23"
-born: 1967
-nationality: American (born Germany)
-disciplines: "entrepreneur, venture capitalist, political philosopher (amateur)"
-role: ''
-organizations: ''
-projects: ''
+- christian
+- contrarian-conservative
+- girardian
+- libertarian
+- person
+- primary-subject
+- research
+- straussian
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/peter-thiel
+aliases: ''
+born: '1967'
+confidence: ''
 contact: ''
-location: ''
+date: 2026-04-23
+disciplines: entrepreneur, venture capitalist, political philosopher (amateur)
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+location: ''
+nationality: American (born Germany)
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 0
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Peter Thiel

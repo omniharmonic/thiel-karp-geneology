@@ -1,35 +1,35 @@
 ---
 title: Milton Friedman
 tags:
-  - "20c-philosophy"
-  - "chicago-school"
-  - economics
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/milton-friedman"
-type: person
-ring: 3
-lived: 1912–2006
-nationality: American
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- chicago-school
+- economics
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/milton-friedman
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1912–2006
+location: ''
+nationality: American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Milton Friedman

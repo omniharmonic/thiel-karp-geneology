@@ -1,21 +1,21 @@
 ---
 title: What the Graph Knows — A Topological Reading of the Vault
 tags:
-  - "graph-analysis"
-  - meta
-  - research
-  - synthesis
-  - "thiel-karp-genealogy"
-  - topology
-vault_path: "vault/research/thiel-karp-genealogy/synthesis/graph-topology-report"
-type: synthesis
-subtype: "graph-analysis"
-date: "2026-04-24"
+- graph-analysis
+- meta
+- research
+- synthesis
+- thiel-karp-genealogy
+- topology
+vault_path: vault/research/thiel-karp-genealogy/synthesis/graph-topology-report
+date: 2026-04-24
 method: centrality + path + betweenness + bridge analysis via Parachute MCP + local graph processing
-visibility: public
-status: draft
 projects: ''
 source: ''
+status: draft
+subtype: graph-analysis
+type: synthesis
+visibility: public
 ---
 
 # What the Graph Knows

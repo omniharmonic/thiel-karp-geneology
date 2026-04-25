@@ -1,38 +1,38 @@
 ---
 title: Theodor W. Adorno
 tags:
-  - "20c-philosophy"
-  - "aesthetic-theory"
-  - "critical-theory"
-  - "frankfurt-school"
-  - "german-philosophy"
-  - person
-  - research
-  - "ring-1"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/theodor-adorno"
-type: person
-ring: 1
-lived: 1903–1969
-nationality: German
-disciplines: "philosophy, sociology, musicology, aesthetics"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- aesthetic-theory
+- critical-theory
+- frankfurt-school
+- german-philosophy
+- person
+- research
+- ring-1
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/theodor-adorno
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, sociology, musicology, aesthetics
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1903–1969
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 1
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Theodor W. Adorno

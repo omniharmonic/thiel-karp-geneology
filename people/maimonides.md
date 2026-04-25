@@ -1,35 +1,35 @@
 ---
 title: Maimonides
 tags:
-  - "jewish-philosophy"
-  - medieval
-  - person
-  - "political-philosophy"
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/maimonides"
-type: person
-ring: 3
-lived: 1138–1204
-nationality: Sephardic Jewish
-role: ''
-organizations: ''
-projects: ''
+- jewish-philosophy
+- medieval
+- person
+- political-philosophy
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/maimonides
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1138–1204
+location: ''
+nationality: Sephardic Jewish
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Maimonides

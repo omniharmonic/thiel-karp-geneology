@@ -1,20 +1,20 @@
 ---
 title: The Final Constellation
 tags:
-  - constellation
-  - essay
-  - index
-  - research
-  - synthesis
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/synthesis/final-constellation"
-type: synthesis
-date: "2026-04-23"
+- constellation
+- essay
+- index
+- research
+- synthesis
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/synthesis/final-constellation
+date: 2026-04-23
 project: ''
-visibility: public
-status: draft
 projects: ''
 source: ''
+status: draft
+type: synthesis
+visibility: public
 ---
 
 # The Final Constellation

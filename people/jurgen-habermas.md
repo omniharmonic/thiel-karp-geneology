@@ -1,39 +1,39 @@
 ---
 title: Jürgen Habermas
 tags:
-  - "20c-philosophy"
-  - contemporary
-  - "critical-theory"
-  - "frankfurt-school"
-  - "german-philosophy"
-  - habermasian
-  - person
-  - research
-  - "ring-1"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/jurgen-habermas"
-type: person
-ring: 1
-lived: 1929–2026
-nationality: German
-disciplines: "philosophy, sociology, political theory"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- contemporary
+- critical-theory
+- frankfurt-school
+- german-philosophy
+- habermasian
+- person
+- research
+- ring-1
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/jurgen-habermas
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, sociology, political theory
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1929–2026
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 1
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Jürgen Habermas

@@ -1,35 +1,35 @@
 ---
 title: Talcott Parsons
 tags:
-  - "20c-philosophy"
-  - american
-  - person
-  - research
-  - "ring-3"
-  - sociology
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/talcott-parsons"
-type: person
-ring: 3
-lived: 1902–1979
-nationality: American
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- american
+- person
+- research
+- ring-3
+- sociology
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/talcott-parsons
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1902–1979
+location: ''
+nationality: American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Talcott Parsons

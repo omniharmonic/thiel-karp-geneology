@@ -1,19 +1,19 @@
 ---
 title: Neoreaction (NRx) and the Dark Enlightenment
 tags:
-  - contemporary
-  - neoreaction
-  - "political-philosophy"
-  - research
-  - school
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/schools/neoreaction"
-type: school
-date: "2026-04-23"
-visibility: public
-status: draft
+- contemporary
+- neoreaction
+- political-philosophy
+- research
+- school
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/schools/neoreaction
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: school
+visibility: public
 ---
 
 # Neoreaction (NRx) and the Dark Enlightenment

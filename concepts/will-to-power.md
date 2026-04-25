@@ -1,22 +1,22 @@
 ---
 title: Will to Power
 tags:
-  - "19c-philosophy"
-  - concept
-  - "cross-branch-concept"
-  - nietzschean
-  - research
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/concepts/will-to-power"
-type: concept
-date: "2026-04-23"
-visibility: public
+- 19c-philosophy
+- concept
+- cross-branch-concept
+- nietzschean
+- research
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/concepts/will-to-power
 aliases: ''
+confidence: ''
+date: 2026-04-23
+projects: ''
 related: ''
 source: ''
-confidence: ''
 status: draft
-projects: ''
+type: concept
+visibility: public
 ---
 
 # Will to Power

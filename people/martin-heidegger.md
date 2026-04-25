@@ -1,38 +1,38 @@
 ---
 title: Martin Heidegger
 tags:
-  - "20c-philosophy"
-  - existentialism
-  - "german-philosophy"
-  - person
-  - phenomenology
-  - research
-  - "ring-2"
-  - "shared-upstream"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/martin-heidegger"
-type: person
-ring: 2
-lived: 1889–1976
-nationality: German
-disciplines: "phenomenology, ontology, philosophy of technology"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- existentialism
+- german-philosophy
+- person
+- phenomenology
+- research
+- ring-2
+- shared-upstream
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/martin-heidegger
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: phenomenology, ontology, philosophy of technology
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1889–1976
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 2
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Martin Heidegger

@@ -1,36 +1,36 @@
 ---
 title: Hannah Arendt
 tags:
-  - "20c-philosophy"
-  - "german-philosophy"
-  - "jewish-philosophy"
-  - person
-  - "political-philosophy"
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/hannah-arendt"
-type: person
-ring: 3
-lived: 1906–1975
-nationality: "German-American"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- german-philosophy
+- jewish-philosophy
+- person
+- political-philosophy
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/hannah-arendt
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1906–1975
+location: ''
+nationality: German-American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Hannah Arendt

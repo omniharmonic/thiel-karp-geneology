@@ -1,40 +1,40 @@
 ---
 title: Axel Honneth
 tags:
-  - "20c-philosophy"
-  - contemporary
-  - "critical-theory"
-  - "frankfurt-school"
-  - "german-philosophy"
-  - habermasian
-  - hegelian
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/axel-honneth"
-type: person
-ring: 3
-born: 1949
-nationality: German
-disciplines: "philosophy, social theory, critical theory"
-visibility: public
-status: draft
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- contemporary
+- critical-theory
+- frankfurt-school
+- german-philosophy
+- habermasian
+- hegelian
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/axel-honneth
+aliases: ''
+born: '1949'
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, social theory, critical theory
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
+visibility: public
 ---
 
 # Axel Honneth

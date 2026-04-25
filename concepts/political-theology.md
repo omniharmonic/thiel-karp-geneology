@@ -1,22 +1,22 @@
 ---
 title: Political Theology (the concept)
 tags:
-  - concept
-  - "cross-branch-concept"
-  - "political-theology"
-  - research
-  - theology
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/concepts/political-theology"
-type: concept
-date: "2026-04-23"
-visibility: public
+- concept
+- cross-branch-concept
+- political-theology
+- research
+- theology
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/concepts/political-theology
 aliases: ''
+confidence: ''
+date: 2026-04-23
+projects: ''
 related: ''
 source: ''
-confidence: ''
 status: draft
-projects: ''
+type: concept
+visibility: public
 ---
 
 # Political Theology (the concept)

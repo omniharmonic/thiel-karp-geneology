@@ -1,36 +1,36 @@
 ---
 title: Alexandre Kojève
 tags:
-  - "20c-philosophy"
-  - "french-philosophy"
-  - hegelian
-  - person
-  - research
-  - "ring-2"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/alexandre-kojeve"
-type: person
-ring: 2
-lived: 1902–1968
-nationality: "Russian-French"
-disciplines: "philosophy, Hegelian studies, EU bureaucrat"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- french-philosophy
+- hegelian
+- person
+- research
+- ring-2
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/alexandre-kojeve
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, Hegelian studies, EU bureaucrat
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1902–1968
+location: ''
+nationality: Russian-French
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 2
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Alexandre Kojève

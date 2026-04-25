@@ -1,17 +1,17 @@
 ---
-title: "Shared Upstream Ancestors: Hegel, Nietzsche, Heidegger"
+title: 'Shared Upstream Ancestors: Hegel, Nietzsche, Heidegger'
 tags:
-  - essay
-  - research
-  - synthesis
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors"
-type: synthesis
-date: "2026-04-23"
-visibility: public
-status: draft
+- essay
+- research
+- synthesis
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: synthesis
+visibility: public
 ---
 
 # Shared Upstream Ancestors

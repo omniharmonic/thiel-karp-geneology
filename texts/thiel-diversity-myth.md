@@ -1,25 +1,25 @@
 ---
-title: "The Diversity Myth (1995) — Thiel's Stanford-Years Book (Deep Dive)"
+title: The Diversity Myth (1995) — Thiel's Stanford-Years Book (Deep Dive)
 tags:
-  - 1990s
-  - "campus-politics"
-  - "deep-dive"
-  - research
-  - stanford
-  - straussian
-  - text
-  - thiel
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/thiel-diversity-myth"
-type: "text-deep-dive"
-date: "2026-04-24"
+- 1990s
+- campus-politics
+- deep-dive
+- research
+- stanford
+- straussian
+- text
+- thiel
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/thiel-diversity-myth
 authors: David O. Sacks and Peter Thiel
-year: 1995
-publisher: Independent Institute
-visibility: public
-status: draft
+date: 2026-04-24
 projects: ''
+publisher: Independent Institute
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: '1995'
 ---
 
 # The Diversity Myth (1995)

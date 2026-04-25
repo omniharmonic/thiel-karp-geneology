@@ -1,37 +1,37 @@
 ---
-title: "Karl-Otto Apel"
+title: Karl-Otto Apel
 tags:
-  - "20c-philosophy"
-  - "discourse-ethics"
-  - "frankfurt-school"
-  - "german-philosophy"
-  - person
-  - research
-  - "ring-1"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/karl-otto-apel"
-type: person
-ring: 1
-lived: 1922–2017
-nationality: German
-disciplines: "philosophy, discourse ethics, transcendental pragmatics"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- discourse-ethics
+- frankfurt-school
+- german-philosophy
+- person
+- research
+- ring-1
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/karl-otto-apel
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, discourse ethics, transcendental pragmatics
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1922–2017
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 1
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Karl-Otto Apel

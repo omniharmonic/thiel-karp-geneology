@@ -1,22 +1,22 @@
 ---
-title: "The Žižek-Land Opposition — Cross-Branch Antipodes of Schmittian Political Theology"
+title: The Žižek-Land Opposition — Cross-Branch Antipodes of Schmittian Political Theology
 tags:
-  - "20c-philosophy"
-  - contemporary
-  - "cross-branch"
-  - "cross-branch-concept"
-  - essay
-  - "political-theology"
-  - research
-  - synthesis
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/synthesis/zizek-land-opposition"
-type: synthesis
-date: "2026-04-24"
-visibility: public
-status: draft
+- 20c-philosophy
+- contemporary
+- cross-branch
+- cross-branch-concept
+- essay
+- political-theology
+- research
+- synthesis
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/synthesis/zizek-land-opposition
+date: 2026-04-24
 projects: ''
 source: ''
+status: draft
+type: synthesis
+visibility: public
 ---
 
 # The Žižek-Land Opposition — Cross-Branch Antipodes of Schmittian Political Theology

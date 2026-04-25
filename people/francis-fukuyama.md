@@ -1,37 +1,37 @@
 ---
 title: Francis Fukuyama
 tags:
-  - "20c-philosophy"
-  - contemporary
-  - hegelian
-  - person
-  - "political-philosophy"
-  - research
-  - "ring-3"
-  - straussian
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/francis-fukuyama"
-type: person
-ring: 3
-born: 1952
-nationality: American
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- contemporary
+- hegelian
+- person
+- political-philosophy
+- research
+- ring-3
+- straussian
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/francis-fukuyama
+aliases: ''
+born: '1952'
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+location: ''
+nationality: American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Francis Fukuyama

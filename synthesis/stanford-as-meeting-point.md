@@ -1,17 +1,17 @@
 ---
 title: Stanford as Meeting Point (1988–1992)
 tags:
-  - essay
-  - research
-  - synthesis
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/synthesis/stanford-as-meeting-point"
-type: synthesis
-date: "2026-04-23"
-visibility: public
-status: draft
+- essay
+- research
+- synthesis
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/synthesis/stanford-as-meeting-point
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: synthesis
+visibility: public
 ---
 
 # Stanford as Meeting Point

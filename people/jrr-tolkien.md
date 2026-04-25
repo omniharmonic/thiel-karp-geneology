@@ -1,34 +1,34 @@
 ---
 title: J.R.R. Tolkien
 tags:
-  - "20c-philosophy"
-  - "literary-influence"
-  - person
-  - research
-  - "ring-3"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/jrr-tolkien"
-type: person
-ring: 3
-lived: 1892–1973
-nationality: British
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- literary-influence
+- person
+- research
+- ring-3
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/jrr-tolkien
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1892–1973
+location: ''
+nationality: British
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # J.R.R. Tolkien

@@ -1,19 +1,19 @@
 ---
 title: Critical Theory
 tags:
-  - "20c-philosophy"
-  - "critical-theory"
-  - "frankfurt-school"
-  - research
-  - school
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/schools/critical-theory"
-type: school
-date: "2026-04-23"
-visibility: public
-status: draft
+- 20c-philosophy
+- critical-theory
+- frankfurt-school
+- research
+- school
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/schools/critical-theory
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: school
+visibility: public
 ---
 
 # Critical Theory

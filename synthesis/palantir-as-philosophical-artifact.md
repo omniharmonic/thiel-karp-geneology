@@ -1,17 +1,17 @@
 ---
 title: Palantir as Philosophical Artifact
 tags:
-  - essay
-  - research
-  - synthesis
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/synthesis/palantir-as-philosophical-artifact"
-type: synthesis
-date: "2026-04-23"
-visibility: public
-status: draft
+- essay
+- research
+- synthesis
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/synthesis/palantir-as-philosophical-artifact
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: synthesis
+visibility: public
 ---
 
 # Palantir as Philosophical Artifact

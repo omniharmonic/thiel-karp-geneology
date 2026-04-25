@@ -1,37 +1,37 @@
 ---
 title: Herbert Marcuse
 tags:
-  - "20c-philosophy"
-  - "critical-theory"
-  - "frankfurt-school"
-  - "german-philosophy"
-  - person
-  - research
-  - "ring-2"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/herbert-marcuse"
-type: person
-ring: 2
-lived: 1898–1979
-nationality: "German-American"
-disciplines: "philosophy, critical theory, political theory"
-role: ''
-organizations: ''
-projects: ''
+- 20c-philosophy
+- critical-theory
+- frankfurt-school
+- german-philosophy
+- person
+- research
+- ring-2
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/herbert-marcuse
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+disciplines: philosophy, critical theory, political theory
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1898–1979
+location: ''
+nationality: German-American
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 2
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Herbert Marcuse

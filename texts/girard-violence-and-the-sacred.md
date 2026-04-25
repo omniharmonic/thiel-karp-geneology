@@ -1,21 +1,21 @@
 ---
-title: "Violence and the Sacred — Girard's Anthropological Turn (Deep Dive)"
+title: Violence and the Sacred — Girard's Anthropological Turn (Deep Dive)
 tags:
-  - anthropology
-  - "deep-dive"
-  - girardian
-  - research
-  - text
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/girard-violence-and-the-sacred"
-type: "text-deep-dive"
-date: "2026-04-23"
+- anthropology
+- deep-dive
+- girardian
+- research
+- text
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/girard-violence-and-the-sacred
 author: René Girard
-year: 1972
-visibility: public
-status: draft
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: text-deep-dive
+visibility: public
+year: '1972'
 ---
 
 ## Violence and the Sacred

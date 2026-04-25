@@ -1,20 +1,20 @@
 ---
 title: The Girardian School
 tags:
-  - "20c-philosophy"
-  - anthropology
-  - girardian
-  - research
-  - school
-  - theology
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/schools/girardian-school"
-type: school
-date: "2026-04-23"
-visibility: public
-status: draft
+- 20c-philosophy
+- anthropology
+- girardian
+- research
+- school
+- theology
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/schools/girardian-school
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: school
+visibility: public
 ---
 
 # The Girardian School

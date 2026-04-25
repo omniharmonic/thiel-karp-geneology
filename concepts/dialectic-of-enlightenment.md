@@ -1,22 +1,22 @@
 ---
 title: The Dialectic of Enlightenment
 tags:
-  - concept
-  - "critical-theory"
-  - "cross-branch-concept"
-  - "frankfurt-school"
-  - research
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/concepts/dialectic-of-enlightenment"
-type: concept
-date: "2026-04-23"
-visibility: public
+- concept
+- critical-theory
+- cross-branch-concept
+- frankfurt-school
+- research
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/concepts/dialectic-of-enlightenment
 aliases: ''
+confidence: ''
+date: 2026-04-23
+projects: ''
 related: ''
 source: ''
-confidence: ''
 status: draft
-projects: ''
+type: concept
+visibility: public
 ---
 
 # The Dialectic of Enlightenment

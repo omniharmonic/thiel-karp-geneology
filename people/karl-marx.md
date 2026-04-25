@@ -1,35 +1,35 @@
 ---
 title: Karl Marx
 tags:
-  - "19c-philosophy"
-  - "german-philosophy"
-  - person
-  - research
-  - "ring-3"
-  - "shared-background"
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/people/karl-marx"
-type: person
-ring: 3
-lived: 1818–1883
-nationality: German
-role: ''
-organizations: ''
-projects: ''
+- 19c-philosophy
+- german-philosophy
+- person
+- research
+- ring-3
+- shared-background
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/people/karl-marx
+aliases: ''
+confidence: ''
 contact: ''
-location: ''
+email: ''
 first-met: ''
 last-contact: ''
-aliases: ''
-source: ''
-confidence: ''
-email: ''
+lived: 1818–1883
+location: ''
+nationality: German
+organizations: ''
 phone: ''
+projects: ''
+relationship_type: collaborator
+ring: 3
+role: ''
+source: ''
+status: draft
 telegram: ''
 timezone: ''
-relationship_type: collaborator
+type: person
 visibility: public
-status: draft
 ---
 
 # Karl Marx

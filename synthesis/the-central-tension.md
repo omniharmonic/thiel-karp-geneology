@@ -1,17 +1,17 @@
 ---
-title: "The Central Tension: Two Friends from Opposite Traditions"
+title: 'The Central Tension: Two Friends from Opposite Traditions'
 tags:
-  - essay
-  - research
-  - synthesis
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/synthesis/the-central-tension"
-type: synthesis
-date: "2026-04-23"
-visibility: public
-status: draft
+- essay
+- research
+- synthesis
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/synthesis/the-central-tension
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: synthesis
+visibility: public
 ---
 
 # The Central Tension

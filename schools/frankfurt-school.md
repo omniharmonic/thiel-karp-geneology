@@ -1,20 +1,20 @@
 ---
 title: The Frankfurt School
 tags:
-  - "20c-philosophy"
-  - "critical-theory"
-  - "frankfurt-school"
-  - "german-philosophy"
-  - research
-  - school
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/schools/frankfurt-school"
-type: school
-date: "2026-04-23"
-visibility: public
-status: draft
+- 20c-philosophy
+- critical-theory
+- frankfurt-school
+- german-philosophy
+- research
+- school
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/schools/frankfurt-school
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+type: school
+visibility: public
 ---
 
 # The Frankfurt School

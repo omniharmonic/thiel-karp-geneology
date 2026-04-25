@@ -1,23 +1,23 @@
 ---
 title: The Land Corpus — Accelerationism as a Unified Arc (Deep Dive)
 tags:
-  - accelerationism
-  - contemporary
-  - "deep-dive"
-  - neoreaction
-  - "nick-land"
-  - research
-  - text
-  - "thiel-karp-genealogy"
-vault_path: "vault/research/thiel-karp-genealogy/texts/land-accelerationist-canon"
-type: "text-deep-dive"
-date: "2026-04-23"
-subject: "Nick Land's complete intellectual arc"
-works_covered: "Meltdown, Fanged Noumena, The Dark Enlightenment, Crypto-Current, Templexity, post-2012 blog writings"
-visibility: public
-status: draft
+- accelerationism
+- contemporary
+- deep-dive
+- neoreaction
+- nick-land
+- research
+- text
+- thiel-karp-genealogy
+vault_path: vault/research/thiel-karp-genealogy/texts/land-accelerationist-canon
+date: 2026-04-23
 projects: ''
 source: ''
+status: draft
+subject: Nick Land's complete intellectual arc
+type: text-deep-dive
+visibility: public
+works_covered: Meltdown, Fanged Noumena, The Dark Enlightenment, Crypto-Current, Templexity, post-2012 blog writings
 ---
 
 ## The Land Corpus — Accelerationism as a Unified Arc
