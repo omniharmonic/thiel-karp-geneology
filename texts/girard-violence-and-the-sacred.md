@@ -106,7 +106,7 @@ Serious Girardian scholarship has identified several tensions in *Violence and t
 ## How to use this note
 
 - Alongside [the Girard profile](../people/rene-girard.md) for biographical context
-- Alongside [vault/research/thiel-karp-genealogy/concepts/mimetic-theory](../concepts/mimetic-theory.md) and [vault/research/thiel-karp-genealogy/concepts/scapegoat-mechanism](../concepts/scapegoat-mechanism.md) for conceptual focus
+- Alongside [mimetic-theory](../concepts/mimetic-theory.md) and [scapegoat-mechanism](../concepts/scapegoat-mechanism.md) for conceptual focus
 - Alongside [the late apocalyptic Girard](girard-apocalyptic-turn.md) to see how the 1972 framework evolved
 
 ---

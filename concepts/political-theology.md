@@ -21,7 +21,7 @@ projects: ''
 
 # Political Theology (the concept)
 
-The concept, distinct from the broader discipline traced in [vault/research/thiel-karp-genealogy/schools/political-theology](../schools/political-theology.md).
+The concept, distinct from the broader discipline traced in [political-theology](../schools/political-theology.md).
 
 ## The Schmitt formulation
 

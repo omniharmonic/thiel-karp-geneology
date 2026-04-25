@@ -58,7 +58,7 @@ Horkheimer's own later philosophical orientation turned increasingly toward Scho
 
 Horkheimer's programmatic essay. "Traditional theory" describes the theorist as detached observer describing a world that stands over against them. "Critical theory" refuses this posture: the theorist is always located in society, has interests, and theorizes in service of emancipatory practice. Theory and emancipation are internal to each other.
 
-This essay defines what "critical theory" would come to mean as a research program. See [vault/research/thiel-karp-genealogy/schools/critical-theory](../schools/critical-theory.md).
+This essay defines what "critical theory" would come to mean as a research program. See [critical-theory](../schools/critical-theory.md).
 
 ### The integration of social research
 
@@ -73,7 +73,7 @@ No single thinker within the Institute would have produced critical theory as su
 
 ### *Dialectic of Enlightenment* (with Adorno)
 
-See [Adorno](theodor-adorno.md) profile and [vault/research/thiel-karp-genealogy/concepts/dialectic-of-enlightenment](../concepts/dialectic-of-enlightenment.md) for the detailed account. Horkheimer's contributions foregrounded the critique of instrumental reason (*Zweckrationalität*) and the historical genealogy of the Enlightenment subject.
+See [Adorno](theodor-adorno.md) profile and [dialectic-of-enlightenment](../concepts/dialectic-of-enlightenment.md) for the detailed account. Horkheimer's contributions foregrounded the critique of instrumental reason (*Zweckrationalität*) and the historical genealogy of the Enlightenment subject.
 
 ### *Eclipse of Reason* (1947)
 

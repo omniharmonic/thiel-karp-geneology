@@ -19,7 +19,7 @@ source: ''
 
 # Political Theology
 
-The tradition — both intellectual discipline and polemical concept — concerned with the ways that modern political concepts are secularized theological concepts, and with the question of what a politics informed by theological rather than purely secular reasons would look like. See also the concept note [vault/research/thiel-karp-genealogy/concepts/political-theology](../concepts/political-theology.md).
+The tradition — both intellectual discipline and polemical concept — concerned with the ways that modern political concepts are secularized theological concepts, and with the question of what a politics informed by theological rather than purely secular reasons would look like. See also the concept note [political-theology](../concepts/political-theology.md).
 
 ## The Schmitt coinage
 

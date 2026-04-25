@@ -68,7 +68,7 @@ Habermas's magnum opus. The claim: ordinary speech presupposes validity claims (
 
 Habermas contrasts communicative action with *strategic action* (acting toward others as objects to be manipulated for one's own ends). Modernity's pathology is that strategic action, embodied in the "systems" of money and administrative power, is *colonizing the life-world* — the sphere of communicative action.
 
-See [vault/research/thiel-karp-genealogy/concepts/communicative-action](../concepts/communicative-action.md).
+See [communicative-action](../concepts/communicative-action.md).
 
 This is the vocabulary that Karp's dissertation works inside. Karp's "Western lifeworld" is *die Lebenswelt*. The "colonization" of it by instrumental reason is *die Kolonialisierung der Lebenswelt*.
 

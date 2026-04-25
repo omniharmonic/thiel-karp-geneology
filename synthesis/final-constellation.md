@@ -213,8 +213,8 @@ Or it can just be a knowledge graph you walk through to see how ideas connect ac
 
 ## Index to the whole vault
 
-- Index: [vault/research/thiel-karp-genealogy/00-README](../00-README.md)
-- Methodology: [vault/research/thiel-karp-genealogy/01-research-plan](../01-research-plan.md)
+- Index: [00-README](../00-README.md)
+- Methodology: [01-research-plan](../01-research-plan.md)
 
 ### Schools
 [Frankfurt School](../schools/frankfurt-school.md) · [Straussianism](../schools/straussianism.md) · [Girardian school](../schools/girardian-school.md) · [Political theology](../schools/political-theology.md) · [Neoreaction](../schools/neoreaction.md) · [Austrian libertarianism](../schools/austrian-libertarianism.md) · [Critical theory](../schools/critical-theory.md)

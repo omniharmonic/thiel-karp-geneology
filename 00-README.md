@@ -56,8 +56,8 @@ vault/research/thiel-karp-genealogy/
 
 ### Navigation
 
-- Start here, then read [vault/research/thiel-karp-genealogy/01-research-plan](01-research-plan.md)
-- Then the two central profiles: [vault/research/thiel-karp-genealogy/people/peter-thiel](people/peter-thiel.md) and [vault/research/thiel-karp-genealogy/people/alex-karp](people/alex-karp.md)
+- Start here, then read [01-research-plan](01-research-plan.md)
+- Then the two central profiles: [peter-thiel](people/peter-thiel.md) and [alex-karp](people/alex-karp.md)
 - Follow the wikilinks outward — each profile links to its influences, schools, and key concepts
 - End at the synthesis essays in `synthesis/` which draw the constellation together
 
@@ -91,7 +91,7 @@ vault/research/thiel-karp-genealogy/
 
 Notice: the two branches share **Nietzsche, Heidegger, and Hegel** as upstream ancestors. This is not accidental. It is the key to understanding both why Thiel and Karp can talk to each other and why their disagreement is structural.
 
-See [vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors](synthesis/shared-upstream-ancestors.md) for the full analysis.
+See [shared-upstream-ancestors](synthesis/shared-upstream-ancestors.md) for the full analysis.
 
 ---
 
@@ -136,11 +136,11 @@ What is here:
 
 Core analytical outputs, once you've read the profiles:
 
-- [vault/research/thiel-karp-genealogy/synthesis/the-central-tension](synthesis/the-central-tension.md) — Why Thiel and Karp's friendship is philosophically coherent despite appearances
-- [vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors](synthesis/shared-upstream-ancestors.md) — Nietzsche, Heidegger, Hegel as the common root
-- [vault/research/thiel-karp-genealogy/synthesis/palantir-as-philosophical-artifact](synthesis/palantir-as-philosophical-artifact.md) — Reading the company as the embodied dialectic
-- [vault/research/thiel-karp-genealogy/synthesis/stanford-as-meeting-point](synthesis/stanford-as-meeting-point.md) — What was in the water at Stanford Law in the early 1990s
-- [vault/research/thiel-karp-genealogy/synthesis/final-constellation](synthesis/final-constellation.md) — The full map, annotated
+- [the-central-tension](synthesis/the-central-tension.md) — Why Thiel and Karp's friendship is philosophically coherent despite appearances
+- [shared-upstream-ancestors](synthesis/shared-upstream-ancestors.md) — Nietzsche, Heidegger, Hegel as the common root
+- [palantir-as-philosophical-artifact](synthesis/palantir-as-philosophical-artifact.md) — Reading the company as the embodied dialectic
+- [stanford-as-meeting-point](synthesis/stanford-as-meeting-point.md) — What was in the water at Stanford Law in the early 1990s
+- [final-constellation](synthesis/final-constellation.md) — The full map, annotated
 
 ---
 

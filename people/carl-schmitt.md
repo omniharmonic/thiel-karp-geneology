@@ -73,7 +73,7 @@ Liberalism, per Schmitt, tries to dissolve the political by reducing everything 
 
 Schmitt's thesis: modern political concepts (sovereignty, the general will, the state of exception) are transposed theological concepts. The sovereign — he who decides the exception — occupies the structural position of the omnipotent God. Liberalism is an attempt to run politics without this theological substrate. Schmitt thinks the attempt must fail.
 
-See [vault/research/thiel-karp-genealogy/concepts/political-theology](../concepts/political-theology.md).
+See [political-theology](../concepts/political-theology.md).
 
 ### Sovereignty and the state of exception
 

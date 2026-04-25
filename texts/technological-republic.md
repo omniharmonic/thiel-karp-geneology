@@ -185,8 +185,8 @@ A philosophically careful reading would note that the book's own tradition (Fran
 ## How to use this note
 
 - **Alongside [Karp's dissertation](karp-dissertation-aggression-in-lifeworld.md)** — to see the 2002 framework operationalized at CEO scale
-- **Alongside [vault/research/thiel-karp-genealogy/synthesis/palantir-as-philosophical-artifact](../synthesis/palantir-as-philosophical-artifact.md)** — as the primary documentary evidence for the Karpian layer of the company
-- **Alongside [vault/research/thiel-karp-genealogy/people/jurgen-habermas](../people/jurgen-habermas.md)** — to see the Habermasian inheritance in contemporary corporate form
+- **Alongside [palantir-as-philosophical-artifact](../synthesis/palantir-as-philosophical-artifact.md)** — as the primary documentary evidence for the Karpian layer of the company
+- **Alongside [jurgen-habermas](../people/jurgen-habermas.md)** — to see the Habermasian inheritance in contemporary corporate form
 - **Read against [Land's corpus](land-accelerationist-canon.md)** — to see the most radical opposite position
 
 ---

@@ -16,7 +16,7 @@ source: ''
 
 # Shared Upstream Ancestors
 
-*Essay 2 of 5 in the synthesis sequence. See [vault/research/thiel-karp-genealogy/synthesis/the-central-tension](the-central-tension.md) for the framing question.*
+*Essay 2 of 5 in the synthesis sequence. See [the-central-tension](the-central-tension.md) for the framing question.*
 
 ---
 
@@ -86,7 +86,7 @@ These are, from two directions, the same question posed to different answers: wh
 
 Palantir, if you squint, is a specific answer to that question.
 
-See [vault/research/thiel-karp-genealogy/synthesis/palantir-as-philosophical-artifact](palantir-as-philosophical-artifact.md).
+See [palantir-as-philosophical-artifact](palantir-as-philosophical-artifact.md).
 
 ## Tags
 

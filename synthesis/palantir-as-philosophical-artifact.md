@@ -16,7 +16,7 @@ source: ''
 
 # Palantir as Philosophical Artifact
 
-*Essay 3 of 5. Continues from [vault/research/thiel-karp-genealogy/synthesis/the-central-tension](the-central-tension.md) and [vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors](shared-upstream-ancestors.md).*
+*Essay 3 of 5. Continues from [the-central-tension](the-central-tension.md) and [shared-upstream-ancestors](shared-upstream-ancestors.md).*
 
 ---
 

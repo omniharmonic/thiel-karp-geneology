@@ -112,8 +112,8 @@ But there is one parallel worth noting: Karp's own recent writing on American te
 ## How to use this note
 
 - Alongside [the 1972 Violence and the Sacred](girard-violence-and-the-sacred.md) — to see the trajectory from anthropology to apocalypse
-- Alongside [vault/research/thiel-karp-genealogy/people/peter-thiel](../people/peter-thiel.md) — to see the specific through-line to Thiel's public positions
-- Alongside [vault/research/thiel-karp-genealogy/concepts/scapegoat-mechanism](../concepts/scapegoat-mechanism.md) — to see how the mechanism behaves when unveiled
+- Alongside [peter-thiel](../people/peter-thiel.md) — to see the specific through-line to Thiel's public positions
+- Alongside [scapegoat-mechanism](../concepts/scapegoat-mechanism.md) — to see how the mechanism behaves when unveiled
 
 ---
 

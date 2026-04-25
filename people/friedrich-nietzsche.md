@@ -59,7 +59,7 @@ God is dead; we have killed him; we have not yet understood what this means. Sec
 
 ### Will to power
 
-Nietzsche's positive metaphysical hypothesis: the fundamental drive of all living things is not self-preservation (Darwin) or pleasure (utilitarians) but the striving for greater power, expansion, self-overcoming. Every interpretation, value, and institution is a crystallization of will to power. See [vault/research/thiel-karp-genealogy/concepts/will-to-power](../concepts/will-to-power.md).
+Nietzsche's positive metaphysical hypothesis: the fundamental drive of all living things is not self-preservation (Darwin) or pleasure (utilitarians) but the striving for greater power, expansion, self-overcoming. Every interpretation, value, and institution is a crystallization of will to power. See [will-to-power](../concepts/will-to-power.md).
 
 ### Eternal recurrence and the Übermensch
 
@@ -120,7 +120,7 @@ The two traditions end up agreeing on the diagnosis and disagreeing on the thera
 
 ## Relevance to Thiel / Karp
 
-See [vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors](../synthesis/shared-upstream-ancestors.md) for the full argument. In brief: Nietzsche is the shared thinker who teaches both traditions to read modernity critically, against its self-presentation — but who teaches Thiel to *embrace* the will to power and teaches Karp (via Habermas) to *reconstruct* a post-Nietzschean normativity that doesn't collapse into authoritarianism.
+See [shared-upstream-ancestors](../synthesis/shared-upstream-ancestors.md) for the full argument. In brief: Nietzsche is the shared thinker who teaches both traditions to read modernity critically, against its self-presentation — but who teaches Thiel to *embrace* the will to power and teaches Karp (via Habermas) to *reconstruct* a post-Nietzschean normativity that doesn't collapse into authoritarianism.
 
 ---
 

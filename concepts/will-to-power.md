@@ -50,7 +50,7 @@ The will to power's highest expression is the Übermensch (overman) — the type
 - **[Thiel](../people/peter-thiel.md)** on monopoly reads as a popular-register will-to-power. *Zero to One*'s thesis (create something that did not exist; refuse to participate in mere competition) is Nietzsche-shaped: creation over imitation, value-setting over value-obeying. Thiel has, however, been careful to distance himself from the vulgar Nietzschean posture; his Girardian Christianity wants to redirect the will to power into non-rivalrous creation rather than endorse the aristocratic politics.
 - **[Karp](../people/alex-karp.md)'s** tradition regards the will-to-power hypothesis as a diagnostic tool (the [dialectic of Enlightenment](dialectic-of-enlightenment.md) uses it, as does Adorno's *Minima Moralia*) rather than as a prescriptive anthropology. Habermas's move: replace the Nietzschean will-to-power with communicative rationality as the deep structure of human sociality.
 
-See [vault/research/thiel-karp-genealogy/people/friedrich-nietzsche](../people/friedrich-nietzsche.md) for the "forked Nietzsche" analysis of how each tradition reads the concept differently.
+See [friedrich-nietzsche](../people/friedrich-nietzsche.md) for the "forked Nietzsche" analysis of how each tradition reads the concept differently.
 
 ## Tags
 

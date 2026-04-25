@@ -108,7 +108,7 @@ Hegel's claim, controversial and often mis-stated: history as the struggle for r
 
 The master–slave dialectic is where Hegel enters both men's genealogies most powerfully. Girard's mimetic rivalry is, in part, Hegel's recognition-struggle read through the lens of desire. Habermas's communicative action is, in part, Hegel's ethical life re-grounded in language. Kojève's reading of Hegel's end of history shapes the Fukuyama-style post-Cold-War triumphalism that Thiel partly endorsed and partly rejected.
 
-See [vault/research/thiel-karp-genealogy/concepts/master-slave-dialectic](../concepts/master-slave-dialectic.md) for the concept in detail.
+See [master-slave-dialectic](../concepts/master-slave-dialectic.md) for the concept in detail.
 
 ---
 

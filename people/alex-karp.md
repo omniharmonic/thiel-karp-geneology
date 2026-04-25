@@ -38,7 +38,7 @@ status: draft
 
 **(Alexander Caedmon Karp, b. 1967 — ⋯)**
 
-American CEO of [Palantir Technologies](peter-thiel.md) since its founding in 2003. Unusually for a Silicon Valley CEO: a Doktor der Philosophie from Goethe University Frankfurt with a dissertation written under [vault/research/thiel-karp-genealogy/people/jurgen-habermas](jurgen-habermas.md), formally situating him inside the tradition of [Frankfurt School](../schools/frankfurt-school.md) [critical theory](../schools/critical-theory.md) — a tradition Peter Thiel's intellectual heroes were organized to refute.
+American CEO of [Palantir Technologies](peter-thiel.md) since its founding in 2003. Unusually for a Silicon Valley CEO: a Doktor der Philosophie from Goethe University Frankfurt with a dissertation written under [jurgen-habermas](jurgen-habermas.md), formally situating him inside the tradition of [Frankfurt School](../schools/frankfurt-school.md) [critical theory](../schools/critical-theory.md) — a tradition Peter Thiel's intellectual heroes were organized to refute.
 
 ---
 
@@ -46,7 +46,7 @@ American CEO of [Palantir Technologies](peter-thiel.md) since its founding in 20
 
 Born in Philadelphia, raised in the mid-Atlantic. Undergraduate at Haverford College (philosophy). JD from Stanford Law (1992), where he met Peter Thiel. After Stanford, moved to Germany and completed a PhD in Neoclassical Social Theory (*Neuere Sozialwissenschaftliche Theorien*) at the Johann Wolfgang Goethe-Universität Frankfurt am Main in 2002.
 
-His dissertation — **"Aggression in der Lebenswelt" ("Aggression in the Life-World: An Extension of Parsons's Concept of Aggression Through the Analysis of the Language of Accommodation")** — was supervised by Habermas with [vault/research/thiel-karp-genealogy/people/karl-otto-apel](karl-otto-apel.md) on the committee. The title alone tells you the intellectual formation: *Lebenswelt* (life-world) is a technical term from [Husserl](edmund-husserl.md) that Habermas made central to his own mature theory; *Parsons* is Talcott Parsons, the American sociologist Habermas rehabilitated; *aggression* is the psychoanalytic dimension (through [Freud](sigmund-freud.md), via Adorno) that critical theory always kept in view.
+His dissertation — **"Aggression in der Lebenswelt" ("Aggression in the Life-World: An Extension of Parsons's Concept of Aggression Through the Analysis of the Language of Accommodation")** — was supervised by Habermas with [karl-otto-apel](karl-otto-apel.md) on the committee. The title alone tells you the intellectual formation: *Lebenswelt* (life-world) is a technical term from [Husserl](edmund-husserl.md) that Habermas made central to his own mature theory; *Parsons* is Talcott Parsons, the American sociologist Habermas rehabilitated; *aggression* is the psychoanalytic dimension (through [Freud](sigmund-freud.md), via Adorno) that critical theory always kept in view.
 
 Briefly an investor and wealth manager in London before Thiel called him in 2003 to help launch Palantir. Karp has led the company ever since, moving it through its early CIA/in-Q-Tel contracts, its 2020 direct listing, and its more recent expansion into commercial enterprise analytics and battlefield AI.
 
@@ -72,7 +72,7 @@ Palantir, for Karp, is a tool for defending this project — which he believes i
 
 ### 3. "The engineering-philosophy split" critique
 
-Karp's public polemic — most legible in *The Technological Republic* — targets what he calls the privatization of technological talent: the flow of the best engineers into consumer-app companies rather than civic/defense infrastructure. This is a *Dialektik der Aufklärung* argument (see [vault/research/thiel-karp-genealogy/concepts/dialectic-of-enlightenment](../concepts/dialectic-of-enlightenment.md)) in modernized form: instrumental reason detached from normative reflection produces a civilization that cannot defend itself.
+Karp's public polemic — most legible in *The Technological Republic* — targets what he calls the privatization of technological talent: the flow of the best engineers into consumer-app companies rather than civic/defense infrastructure. This is a *Dialektik der Aufklärung* argument (see [dialectic-of-enlightenment](../concepts/dialectic-of-enlightenment.md)) in modernized form: instrumental reason detached from normative reflection produces a civilization that cannot defend itself.
 
 ### 4. Aggression, violence, and the management of conflict
 
@@ -84,11 +84,11 @@ Karp's dissertation background makes him philosophically serious about violence 
 
 ### Habermas — the doctoral lineage
 
-[vault/research/thiel-karp-genealogy/people/jurgen-habermas](jurgen-habermas.md) is Karp's intellectual father in the formal sense. Karp has spoken warmly of Habermas in interviews, and Habermasian vocabulary — life-world, communicative action, system/lifeworld distinction, the public sphere — shows up persistently in Karp's business writing.
+[jurgen-habermas](jurgen-habermas.md) is Karp's intellectual father in the formal sense. Karp has spoken warmly of Habermas in interviews, and Habermasian vocabulary — life-world, communicative action, system/lifeworld distinction, the public sphere — shows up persistently in Karp's business writing.
 
 ### Apel — discourse ethics
 
-[vault/research/thiel-karp-genealogy/people/karl-otto-apel](karl-otto-apel.md) — the other founder of the discourse-ethics program with Habermas. Apel's transcendental pragmatics gives Karp's dissertation its deeper methodological frame.
+[karl-otto-apel](karl-otto-apel.md) — the other founder of the discourse-ethics program with Habermas. Apel's transcendental pragmatics gives Karp's dissertation its deeper methodological frame.
 
 ### The Frankfurt School inheritance
 
@@ -100,11 +100,11 @@ Through Habermas, Karp inherits the lineage of:
 
 And the further upstream sources — [Marx](karl-marx.md), [Weber](max-weber.md), [Freud](sigmund-freud.md), [Hegel](gwf-hegel.md), [Kant](immanuel-kant.md).
 
-See [vault/research/thiel-karp-genealogy/schools/frankfurt-school](../schools/frankfurt-school.md) for the full institutional lineage.
+See [frankfurt-school](../schools/frankfurt-school.md) for the full institutional lineage.
 
 ### Parsons — the dissertation bridge
 
-[vault/research/thiel-karp-genealogy/people/talcott-parsons](talcott-parsons.md), the mid-20th-century American sociologist of action systems. Karp's dissertation explicitly extends Parsons's concept of aggression. Parsons had been decisively rehabilitated by Habermas in *The Theory of Communicative Action* (1981) as a sophisticated theorist of systems differentiation; Karp's dissertation works inside that rehabilitation.
+[talcott-parsons](talcott-parsons.md), the mid-20th-century American sociologist of action systems. Karp's dissertation explicitly extends Parsons's concept of aggression. Parsons had been decisively rehabilitated by Habermas in *The Theory of Communicative Action* (1981) as a sophisticated theorist of systems differentiation; Karp's dissertation works inside that rehabilitation.
 
 ### Philosophical anthropology
 
@@ -112,17 +112,17 @@ A secondary influence visible in Karp's engagement with aggression: the German t
 
 ### Kant — the normative backbone
 
-[vault/research/thiel-karp-genealogy/people/immanuel-kant](immanuel-kant.md) is the deep normative reference for the entire discourse-ethics program. Karp's Enlightenment commitment is fundamentally Kantian — the dignity of persons, the regulative idea of reason, the unity of theoretical and practical reason under universalizable norms.
+[immanuel-kant](immanuel-kant.md) is the deep normative reference for the entire discourse-ethics program. Karp's Enlightenment commitment is fundamentally Kantian — the dignity of persons, the regulative idea of reason, the unity of theoretical and practical reason under universalizable norms.
 
 ### Weber — the diagnostic register
 
-[vault/research/thiel-karp-genealogy/people/max-weber](max-weber.md) provides the vocabulary — instrumental vs. value-rationality, the "iron cage" of modern bureaucracy, the disenchantment thesis — that Habermas inherited and that Karp uses implicitly when he writes about the technological republic.
+[max-weber](max-weber.md) provides the vocabulary — instrumental vs. value-rationality, the "iron cage" of modern bureaucracy, the disenchantment thesis — that Habermas inherited and that Karp uses implicitly when he writes about the technological republic.
 
 ---
 
 ## Relationship to Thiel
 
-See [vault/research/thiel-karp-genealogy/people/peter-thiel](peter-thiel.md) and [vault/research/thiel-karp-genealogy/synthesis/the-central-tension](../synthesis/the-central-tension.md).
+See [peter-thiel](peter-thiel.md) and [the-central-tension](../synthesis/the-central-tension.md).
 
 Karp has been explicit in interviews that he and Thiel disagree politically — and that this disagreement is the basis, not the obstacle, of the friendship. The structure is classical: each man treats the other as the most serious representative of the opposing view, worth arguing with because he argues well. Thiel has the Girardian scapegoat mechanism; Karp has the Habermasian public sphere. These are two of the major 20th-century theories of how violence and reason interact, and they can be understood as disagreeing partners as well as enemies.
 

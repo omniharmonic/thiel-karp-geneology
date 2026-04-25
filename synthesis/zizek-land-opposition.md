@@ -21,7 +21,7 @@ source: ''
 
 # The Žižek-Land Opposition — Cross-Branch Antipodes of Schmittian Political Theology
 
-*A cross-branch synthesis. See [vault/research/thiel-karp-genealogy/synthesis/the-central-tension](the-central-tension.md) for the American instance of the same structural pattern, and [vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors](shared-upstream-ancestors.md) for the Hegel-Nietzsche-Heidegger substrate both halves of this essay presuppose.*
+*A cross-branch synthesis. See [the-central-tension](the-central-tension.md) for the American instance of the same structural pattern, and [shared-upstream-ancestors](shared-upstream-ancestors.md) for the Hegel-Nietzsche-Heidegger substrate both halves of this essay presuppose.*
 
 ---
 

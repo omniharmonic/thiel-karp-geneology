@@ -126,8 +126,8 @@ Karp's tradition is neither Straussian nor orthodox Kojèvian, but it sits close
 ## How to use this note
 
 - Alongside [Strauss profile](../people/leo-strauss.md) and [Kojève profile](../people/alexandre-kojeve.md)
-- Alongside [vault/research/thiel-karp-genealogy/concepts/master-slave-dialectic](../concepts/master-slave-dialectic.md) (Kojève's Hegelian frame)
-- Alongside [vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors](../synthesis/shared-upstream-ancestors.md) (where the Kojèvian thread appears in both Thiel and Karp branches)
+- Alongside [master-slave-dialectic](../concepts/master-slave-dialectic.md) (Kojève's Hegelian frame)
+- Alongside [shared-upstream-ancestors](../synthesis/shared-upstream-ancestors.md) (where the Kojèvian thread appears in both Thiel and Karp branches)
 
 ---
 

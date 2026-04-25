@@ -28,7 +28,7 @@ source: ''
 
 This is the single most influential (and most controversial) methodological work Strauss ever wrote. It argues — against the dominant mid-20th-century hermeneutic orthodoxy — that philosophers through history have often written *esoterically*, and that learning to read them rightly requires recovering the art of esoteric reading.
 
-The book's afterlife has been enormous. It has shaped American political theory, legal hermeneutics, classical scholarship, and (via Allan Bloom and the Hoover circle) the intellectual posture of [Peter Thiel](../people/peter-thiel.md)'s public writing. See also [vault/research/thiel-karp-genealogy/concepts/esoteric-writing](../concepts/esoteric-writing.md).
+The book's afterlife has been enormous. It has shaped American political theory, legal hermeneutics, classical scholarship, and (via Allan Bloom and the Hoover circle) the intellectual posture of [Peter Thiel](../people/peter-thiel.md)'s public writing. See also [esoteric-writing](../concepts/esoteric-writing.md).
 
 ---
 
@@ -137,9 +137,9 @@ This is a non-trivial stylistic-ethical difference between Thiel and Karp. It is
 ## How to use this note
 
 - Alongside [the Strauss profile](../people/leo-strauss.md) for biographical context
-- Alongside [vault/research/thiel-karp-genealogy/concepts/esoteric-writing](../concepts/esoteric-writing.md) for the concept in focus
+- Alongside [esoteric-writing](../concepts/esoteric-writing.md) for the concept in focus
 - Alongside [the Strauss–Kojève debate](strauss-kojeve-debate.md) to see esoteric reading in its original philosophical context
-- Alongside [vault/research/thiel-karp-genealogy/people/peter-thiel](../people/peter-thiel.md) to trace the hermeneutic inheritance into contemporary tech-adjacent writing
+- Alongside [peter-thiel](../people/peter-thiel.md) to trace the hermeneutic inheritance into contemporary tech-adjacent writing
 
 ---
 

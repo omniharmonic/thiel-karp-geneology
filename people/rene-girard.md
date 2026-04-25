@@ -63,7 +63,7 @@ His career unfolds as a long arc of three phases, each building on the previous:
 
 ### Mimetic desire
 
-Humans do not desire objects for themselves. We desire them because someone else — a *model* — desires them. Desire is mediated, triangular, copied. This is [vault/research/thiel-karp-genealogy/concepts/mimetic-theory](../concepts/mimetic-theory.md).
+Humans do not desire objects for themselves. We desire them because someone else — a *model* — desires them. Desire is mediated, triangular, copied. This is [mimetic-theory](../concepts/mimetic-theory.md).
 
 The everyday consequence: identity is not prior to desire but constituted by the models we imitate. "Tell me what you want and I'll tell me who you are" is a Girardian maxim.
 
@@ -75,7 +75,7 @@ When mimetic rivalry becomes generalized across a community — a "mimetic crisi
 
 The victim retroactively appears to have caused the crisis *and* to have brought the peace — hence sacred. Religion (ritual, prohibition, myth) grows up to re-enact, remember, and repeat this founding murder. Culture, for Girard, is founded on a lie — the lie that the victim was guilty.
 
-See [vault/research/thiel-karp-genealogy/concepts/scapegoat-mechanism](../concepts/scapegoat-mechanism.md).
+See [scapegoat-mechanism](../concepts/scapegoat-mechanism.md).
 
 ### The Judeo-Christian revelation
 

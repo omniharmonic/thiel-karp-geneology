@@ -16,7 +16,7 @@ source: ''
 
 # The Central Tension
 
-*Essay 1 of 5 in the synthesis sequence. See also [vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors](shared-upstream-ancestors.md), [vault/research/thiel-karp-genealogy/synthesis/palantir-as-philosophical-artifact](palantir-as-philosophical-artifact.md), [vault/research/thiel-karp-genealogy/synthesis/stanford-as-meeting-point](stanford-as-meeting-point.md), [vault/research/thiel-karp-genealogy/synthesis/final-constellation](final-constellation.md).*
+*Essay 1 of 5 in the synthesis sequence. See also [shared-upstream-ancestors](shared-upstream-ancestors.md), [palantir-as-philosophical-artifact](palantir-as-philosophical-artifact.md), [stanford-as-meeting-point](stanford-as-meeting-point.md), [final-constellation](final-constellation.md).*
 
 ---
 
@@ -68,11 +68,11 @@ Whatever their differences, both Thiel and Karp share contempt for the unreflect
 
 ### 3. Shared upstream ancestors
 
-As detailed in [vault/research/thiel-karp-genealogy/synthesis/shared-upstream-ancestors](shared-upstream-ancestors.md), both traditions ultimately descend from [Hegel](../people/gwf-hegel.md), [Nietzsche](../people/friedrich-nietzsche.md), and [Heidegger](../people/martin-heidegger.md). The grammar is shared. The conclusions differ.
+As detailed in [shared-upstream-ancestors](shared-upstream-ancestors.md), both traditions ultimately descend from [Hegel](../people/gwf-hegel.md), [Nietzsche](../people/friedrich-nietzsche.md), and [Heidegger](../people/martin-heidegger.md). The grammar is shared. The conclusions differ.
 
 ### 4. The Stanford Law context
 
-As detailed in [vault/research/thiel-karp-genealogy/synthesis/stanford-as-meeting-point](stanford-as-meeting-point.md), early-1990s Stanford Law was a small, intense, self-selected environment. Deep friendships formed there survive a lot.
+As detailed in [stanford-as-meeting-point](stanford-as-meeting-point.md), early-1990s Stanford Law was a small, intense, self-selected environment. Deep friendships formed there survive a lot.
 
 ### 5. A theory of recognition
 
@@ -84,7 +84,7 @@ When Karp writes that Palantir is "building infrastructure for the Western lifew
 
 The company holds both claims. This is the central artifact.
 
-See [vault/research/thiel-karp-genealogy/synthesis/palantir-as-philosophical-artifact](palantir-as-philosophical-artifact.md) for what to make of it.
+See [palantir-as-philosophical-artifact](palantir-as-philosophical-artifact.md) for what to make of it.
 
 ## Tags
 

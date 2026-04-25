@@ -59,13 +59,13 @@ The thesis: Enlightenment — the modern program of rationalization, demystifica
 
 The book is not an anti-Enlightenment polemic but an immanent critique: Enlightenment can only rescue itself by turning its critical force back on itself. The specific case studies — Odysseus as proto-bourgeois subject, the Marquis de Sade as Enlightenment's true child, the culture industry as anti-Enlightenment spawned from Enlightenment — carry the argument.
 
-See [vault/research/thiel-karp-genealogy/concepts/dialectic-of-enlightenment](../concepts/dialectic-of-enlightenment.md).
+See [dialectic-of-enlightenment](../concepts/dialectic-of-enlightenment.md).
 
 ### The culture industry
 
 Adorno's most famous contribution to popular discourse: the mid-20th-century mass entertainment industry (Hollywood, radio, popular music) is not "the people's culture" but an administered, standardized, industrialized pseudo-culture that pacifies and integrates subjects into the existing order while flattering them that they are entertained. The effect is not merely conservative but *anti-Enlightening* — it produces subjects incapable of the autonomy Enlightenment had promised.
 
-See [vault/research/thiel-karp-genealogy/concepts/culture-industry](../concepts/culture-industry.md).
+See [culture-industry](../concepts/culture-industry.md).
 
 ### Negative dialectics (1966)
 

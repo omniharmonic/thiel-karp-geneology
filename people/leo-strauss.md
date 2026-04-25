@@ -72,7 +72,7 @@ Strauss's lifelong preoccupation: the tension between *Jerusalem* (revelation, o
 
 Strauss's scandalous hermeneutical claim: the great philosophers wrote in a double register. The exoteric text is for the general reader; the esoteric text, decipherable through close reading, contains teachings too dangerous, too heterodox, or too destabilizing for public consumption. *Persecution and the Art of Writing* (1952) lays out the method.
 
-See [vault/research/thiel-karp-genealogy/concepts/esoteric-writing](../concepts/esoteric-writing.md).
+See [esoteric-writing](../concepts/esoteric-writing.md).
 
 This claim is the most contested of Strauss's contributions. His defenders see it as a recovery of how serious thinkers have always written. His critics see it as an apology for elitist manipulation and a license for intellectual cliquism.
 
@@ -99,7 +99,7 @@ Strauss argued that Plato, Aristotle, and the medieval Islamic and Jewish politi
 ## Influenced by
 
 - Plato, Xenophon, Aristotle, Thucydides — treated as living interlocutors, not historical artifacts
-- [vault/research/thiel-karp-genealogy/people/maimonides](maimonides.md) — medieval Jewish political philosopher; Strauss's lifelong touchstone
+- [maimonides](maimonides.md) — medieval Jewish political philosopher; Strauss's lifelong touchstone
 - Alfarabi, Averroes — medieval Islamic political philosophers who preserved the classical tradition
 - [Machiavelli](niccolo-machiavelli.md) — Strauss's modernity-bad-guy-in-chief; *Thoughts on Machiavelli* is a hundred pages of close reading
 - [Nietzsche](friedrich-nietzsche.md) — Strauss's early influence and lifelong provocation; the Straussian Nietzsche is the diagnostician of nihilism
