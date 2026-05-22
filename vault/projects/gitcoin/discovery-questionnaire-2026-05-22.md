@@ -3,7 +3,6 @@ title: discovery-questionnaire-2026-05-22
 tags:
 - discovery
 - gitcoin
-- project
 - scoping
 vault_path: vault/projects/gitcoin/discovery-questionnaire-2026-05-22
 aliases: ''
@@ -12,11 +11,13 @@ confidence: ''
 for: Kevin Owocki, Mathilda DV.eth, Ash
 keywords: ''
 org: ''
+prism_type: project
 role: ''
 source: omni-agent
 status: draft
-type: questionnaire
+type: note
 url: ''
+vault_type: questionnaire
 ---
 
 ---
