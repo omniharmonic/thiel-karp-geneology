@@ -15,7 +15,7 @@ prism_type: project
 role: ''
 source: omni-agent
 status: draft
-type: note
+type: document
 url: ''
 vault_type: questionnaire
 ---
